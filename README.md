@@ -6,8 +6,9 @@ Have added sample input, just put
 2. myheader.h
 3. mysource.cpp
 
-in one folder and execute the main.cpp file
+in one folder and execute the main.cpp file <br>
 Simply copy and paste everything from INPUTS.txt for a basic running of the program.
+
 ## Step 1:
 Defined <myheader.h>
 Contains the structure of the node
