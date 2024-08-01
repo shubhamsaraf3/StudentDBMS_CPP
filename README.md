@@ -1,4 +1,4 @@
-# OOP Project in C++ {Linked List}
+# OOP Project in C++ using Linked List
 
 ## NOTE
 Have added sample input, just put 
